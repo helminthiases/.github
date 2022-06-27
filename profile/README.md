@@ -1,6 +1,6 @@
 <br>
 
-This is the hub of the soil transmitted helminths project.  At present, its contents are rudimentary; the project started during the second week of June, 2022.
+This is the hub of the soil transmitted helminths project.  At present, its contents are rudimentary.
 
 <br>
 <br>
