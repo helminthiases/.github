@@ -2,6 +2,7 @@
 
 ## The Soil Transmitted Helminths Project
 
+<br>
 
 ### Project Aim
 
