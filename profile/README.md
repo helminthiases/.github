@@ -2,7 +2,7 @@
 
 ## The Soil Transmitted Helminths Project
 
-<br>
+<p style="margin-top: 5px; margin-bottom: 5px">For explanatory notes: <a href="https://helminthiases.github.io/">helminthiases.github.io</a></p>
 
 ### Project Aim
 
@@ -10,9 +10,14 @@
 > and their effect, or otherwise, on STH prevalence prediction.
 
 
-<br>
+### Project Objectives
+<p style="margin-top: 5px; margin-bottom: -5px">
+Hence, the project's objectives are to</p>
 
-[helminthiases.github.io](https://helminthiases.github.io/)
+* Understand the association between STH (Soil Transmitted Helminth) prevalence and WASH (water, sanitation, and hygiene) variables.
+* Determine the extent to which WASH variables aid STH prevalence prediction via geostatistical models.
+
+
 
 <br>
 <br>
