@@ -6,17 +6,17 @@
 
 ### Project Aim
 
-> Understanding the association between STH (Soil Transmitted Helminth) prevalence and WASH (water, sanitation, and hygiene) variables, 
-> and their effect, or otherwise, on STH prevalence prediction.
+> Determine whether one or more WaSH (water, sanitation, and hygiene) variables are geohelminths infections prevalence risk factors.
 
 
 ### Project Objectives
 <p style="margin-top: 5px; margin-bottom: -5px">
 Hence, the project's objectives are to</p>
 
-* Understand the association between STH (Soil Transmitted Helminth) prevalence and WASH (water, sanitation, and hygiene) variables.
-* Determine the extent to which WASH variables aid STH prevalence prediction via geostatistical models.
+1. Determine which WaSH (water, sanitation, and hygiene) variables have a statistically significant impact on geohelminths infections prevalence.
+2. Determine, estimate, the degree to which impacting WaSH variables affect geohelminths infections prevalence.
 
+via geostatistical models.
 
 
 <br>
