@@ -4,13 +4,13 @@
 
 <p style="margin-top: 5px; margin-bottom: 5px">For explanatory notes: <a href="https://helminthiases.github.io/">helminthiases.github.io</a></p>
 
-<br>
+
 
 ### Project Aim
 
 > Determine whether one or more WaSH (water, sanitation, and hygiene) variables are geohelminths infections prevalence risk factors.
 
-<br>
+
 
 ### Project Objectives
 <p style="margin-top: 5px; margin-bottom: -5px">
