@@ -18,6 +18,13 @@ Hence, the project's objectives are to</p>
 
 via geostatistical models.
 
+<br>
+
+<p style="margin-top: 5px; margin-bottom: 5px; font-size: small;">
+Project host: World Health Organization (WHO)<br>
+World Health Organization supervisor: Professor Antonio Montresor<br>
+Lancaster Medical School/<a href="https://chicas.lancaster-university.uk" target="_blank">CHICAS</a> supervisor: Dr. Emanuele Giorgi
+</p>
 
 <br>
 <br>
