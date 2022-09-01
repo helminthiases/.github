@@ -4,10 +4,13 @@
 
 <p style="margin-top: 5px; margin-bottom: 5px">For explanatory notes: <a href="https://helminthiases.github.io/">helminthiases.github.io</a></p>
 
+<br>
+
 ### Project Aim
 
 > Determine whether one or more WaSH (water, sanitation, and hygiene) variables are geohelminths infections prevalence risk factors.
 
+<br>
 
 ### Project Objectives
 <p style="margin-top: 5px; margin-bottom: -5px">
@@ -18,13 +21,17 @@ Hence, the project's objectives are to</p>
 
 via geostatistical models.
 
+
+<br>
 <br>
 
-<p style="margin-top: 5px; margin-bottom: 5px; font-size: small;">
-Project host: World Health Organization (WHO)<br>
-World Health Organization supervisor: Professor Antonio Montresor<br>
-Lancaster Medical School/<a href="https://chicas.lancaster-university.uk" target="_blank">CHICAS</a> supervisor: Dr. Emanuele Giorgi
-</p>
+
+**Project host**: World Health Organization (WHO)<br>
+<p style="margin-top: 2px; margin-bottom: -7px"><b>Supervisors</b>:</p>
+
+* Professor Antonio Montresor - World Health Organization supervisor
+* Dr. Emanuele Giorgi - Lancaster Medical School/<a href="https://chicas.lancaster-university.uk" target="_blank">Centre for Heath Informatics, Computing, and Statistics</a> 
+
 
 <br>
 <br>
